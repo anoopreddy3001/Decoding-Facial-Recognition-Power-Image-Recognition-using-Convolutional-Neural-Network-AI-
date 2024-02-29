@@ -1,4 +1,4 @@
-# Deep Convolutional Neural Network for Image Recognition
+# Decoding Facial and Image Recognition using Convolutional Neural Network
 
 ## Project Overview
 
